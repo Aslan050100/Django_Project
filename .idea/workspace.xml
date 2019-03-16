@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b9ba5-1379-4123-a372-69c6f8c91cc3" name="Default Changelist" comment="" />
+    <list default="true" id="e14b9ba5-1379-4123-a372-69c6f8c91cc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_first/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               <folding>
                 <element signature="e#636#668#0" expanded="true" />
               </folding>
@@ -182,44 +184,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django_first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_first" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="mainApp" type="462c0819:PsiDirectoryNode" />
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,7 +251,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15302013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -417,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_first/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           <folding>
             <element signature="e#636#668#0" expanded="true" />
           </folding>
