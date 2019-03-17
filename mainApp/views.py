@@ -1,6 +1,11 @@
 from django.shortcuts import render
+from .forms import SubscriberForm
 
-# Create your views here.
 
 def index(request):
-    return render(request, 'mainApp/homePage.html')
+    form = SubscriberForm(request.POST or None)
+    if request.method == "POST" and form.is_valid():
+        data = form.cleaned_data
+        new_form = form.save()
+
+    return render(request, 'mainApp/homePage.html', locals())

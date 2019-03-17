@@ -11,13 +11,29 @@
 <body>
 <div class = "jumbotron">
 <div class="container">
-    <h1>Привет, вы на сайте Aslana</h1>
-    {% block content %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h1>Привет, вы на сайте Aslana</h1>
+            {% block content %}
 
-	{% endblock %}
-    <p>Привет, вы на сайте Aslana</p>
-  </div>
-<img src="{% static "mainApp/image/aslan.jpg" %}" class="img-thumbnail">
+            {% endblock %}
+        </div>
+    <div class="col-lg-12">
+        <form action="" method="post">{% csrf_token %}
+            {{ form }}
+            <div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+
+    </div>
+    <div>
+        <img src="{% static "mainApp/image/aslan.jpg" %}" class="img-thumbnail">
+    </div>
+    </div>
+
+</div>
+
 
 </div>
 
