@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b9ba5-1379-4123-a372-69c6f8c91cc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mainApp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_first/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_first/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_first/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_first/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/templates/mainApp/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/templates/mainApp/homePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/templates/mainApp/includes/some_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/templates/mainApp/includes/some_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/templates/mainApp/wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/templates/mainApp/wrapper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainApp/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="e14b9ba5-1379-4123-a372-69c6f8c91cc3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +60,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="253" />
-          <entry key="py" value="428" />
+          <entry key="py" value="432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="253" />
-          <entry key="Python" value="428" />
+          <entry key="Python" value="432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -101,10 +89,10 @@
         <entry file="file://$PROJECT_DIR$/mainApp/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1552805075040" expanded="true" signature="253:258" ph="..." />
+                <marker date="1552805148953" expanded="true" signature="257:262" ph="..." />
               </folding>
             </state>
           </provider>
@@ -478,10 +466,10 @@
     <entry file="file://$PROJECT_DIR$/mainApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1552805075040" expanded="true" signature="253:258" ph="..." />
+            <marker date="1552805148953" expanded="true" signature="257:262" ph="..." />
           </folding>
         </state>
       </provider>
